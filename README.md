@@ -70,13 +70,7 @@ python -m spacy package ./output/model-best ./my_model_package --build wheel --c
 ### Install on a Remote Machine
 
 ```bash
-pip install https://github.com/yourusername/yourrepo/releases/download/v1.0.0/your_model.whl
-```
-
-Alternatively, install from the .tar.gz model file:
-
-```bash
-pip install en_model_textcat_ngn-0.1.0.tar.gz
+!pip install https://github.com/HermesNdjeng/nlp_project_ngn/releases/download/model/en_model_textcat_ngn-0.1.0.tar.gz
 ```
 
 ## Contributors
