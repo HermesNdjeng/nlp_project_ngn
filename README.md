@@ -84,7 +84,7 @@ pip install en_model_textcat_ngn-0.1.0.tar.gz
 This project was developed by:
 - **Harold** 
 - **Aymrick**
-- **Hermers**
+- **Hermes**
 
 ## Citation
 
