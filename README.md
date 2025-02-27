@@ -6,7 +6,7 @@ This project fine-tunes SciBERT within a spaCy-based pipeline to detect automati
 
 ```
 ├── config.cfg            # spaCy pipeline configuration file
-├── notebook.ipynb        # Annotated Jupyter Notebook with full workflow
+├── nlp_project_ngn.ipynb        # Annotated Jupyter Notebook with full workflow
 ├── README.md             # Project documentation
 ```
 
